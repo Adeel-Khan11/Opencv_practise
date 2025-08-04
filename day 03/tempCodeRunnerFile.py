@@ -1,0 +1,1 @@
+C:\\Users\\khan\\Downloads\\Compressed\\G\\mytest.png
