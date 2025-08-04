@@ -98,19 +98,24 @@ Whether it's for academic, professional, or personal growth — I'm using this a
 
 ---
 
-## About Me
 
-**Name:** Adeel Khan  
-**Goal:** Master Computer Vision for AI/ML career  
-**Location:** Pakistan  
-**GitHub:** [@Adeel-Khan11](https://github.com/Adeel-Khan11)
-
----
 
 ## License
 
 This repository is open-source and free to use under the MIT License.  
 Feel free to use the code for learning, practicing, or improving your own skills.
+
+---
+
+## About Me
+
+**Name:** Adeel Khan  
+**Goal:** Master Computer Vision for AI/ML career  
+**Location:** Pakistan  
+**GitHub:** [@Adeel-Khan11](https://github.com/Adeel-Khan11) 
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/adeel-khan-4a6b56308)
+
+Feel free to open an issue if you have questions, suggestions, or want to collaborate.
 
 ---
 
